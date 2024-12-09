@@ -1,7 +1,7 @@
 # Bubble Sort in Objective-C
 ## HOW TO COMPILE
-a) you have MacOS: great, apple provides services for that
-b) you have Windows / UNIX: not so great, because:
+- MacOS: great, apple provides services for that
+- Windows / UNIX: not so great, because:
 	1) if there would be just the .m file (the .h file is the header, it declares classes etc.)
 		you could use an Online Compiler
 	2) but there is also the .h file (it was necessary for this programm):
